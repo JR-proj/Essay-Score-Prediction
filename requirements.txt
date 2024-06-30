@@ -1,5 +1,5 @@
 keras==3.4.1
-numpy==2.0.0
+numpy==1.26.4
 sentencepiece==0.2.0
 streamlit==1.36.0
 tensorflow==2.16.2
